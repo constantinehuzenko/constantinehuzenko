@@ -1,3 +1,6 @@
+# Hey! Cool that you come here, ready to read about me?
+___
+
 <p>
   <img alt="javascript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
