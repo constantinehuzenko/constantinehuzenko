@@ -3,13 +3,13 @@ I'm sad that I don't have my WIKI page on Wikipedia that's why I decided to crea
 
 Kostiantyn Huzenko (born 3 June 1998) is a Ukraine professional Frontend developer who works for EPAM Systems Poland and take a part as outstaf developer in Shell company, creating huge analytics web tool to help people in Shell performe better and live easyer lifes. Kostiantyn a self-motivated learner who studying 3+ hours every day to become best developer and avoid Impostor syndrome.
 
-##Early life
+## Early life
 As a child loved to built LEGO blocks, and has huge ammount of this, was very active child and used to descover world every minute he has.
 
-##Career
+## Career
 Started his IT Career at 15 as google ads maneger where he permormed well
 
-##Personal Life
+## Personal Life
 Loves sport, traveling
 
 
