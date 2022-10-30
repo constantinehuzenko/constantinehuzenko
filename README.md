@@ -7,7 +7,7 @@ Kostiantyn Huzenko (born 3 June 1998) is a Ukraine professional Frontend develop
 As a child loved to built LEGO blocks, and has huge ammount of this, was very active child and used to descover world every minute he has.
 
 ## Career
-Started his IT Career at 15 as google ads maneger where he permormed well
+Started his IT Career at 15 as google ads manager where he permormed well
 
 ## Personal Life
 Loves sport, traveling
