@@ -1,3 +1,13 @@
+<h1>Hey 👋, I'm Kostia</h1>
+
+Front-end/React Developer👨‍💻 with 5 years of experience implementing efficient, scalable web applications with 10,000+ users for companies like Amazon📦 and Shell🛢️ using React.js⚛️, Redux, JavaScript, TypeScript;
+Collaborated with direct clients💼, cross-functional teams of various sizes and led users UI/UX interviews.
+
+📢 I'm always looking to grow my personal and professional network. Feel free to connect via [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)]([https://linkedin.com/in/iampavangandhi](https://www.linkedin.com/in/konstantyn-husenko/)) or contact me directly at huzenko.c@gmail.com;
+
+
+<h1>Technical Skills</h1>
+
 <p>
   <img alt="javascript" src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
