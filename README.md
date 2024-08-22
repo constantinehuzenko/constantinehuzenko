@@ -1,4 +1,4 @@
-<h1>Hey 👋, I'm Kostia</h1>
+<h1>Hey 👋, I'm Koss</h1>
 
 Front-end/React Developer👨‍💻 with 5 years of experience implementing efficient, scalable web applications with 10,000+ users for companies like Amazon📦 and Shell🛢️ using React.js⚛️, Redux, JavaScript, TypeScript;
 Collaborated with direct clients💼, cross-functional teams of various sizes and led users UI/UX interviews.
