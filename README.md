@@ -64,7 +64,10 @@ Collaborated with direct clients💼, cross-functional teams of various sizes an
 </p>
 
 <h1>Contact me regarding mentoring opportunities!</h1>
-![top-us-blured](https://github.com/user-attachments/assets/dec0a7a3-d63a-474d-874a-e3b55cf007c6)
+![top-us-blured](https://github.com/user-attachments/assets/74c78bb2-1fc0-4f10-9ff7-30700412c45c)
+
+
+
 
 
 
