@@ -1,7 +1,12 @@
 <h1>Hey 👋, I'm Koss</h1>
 
-Front-end/React Developer👨‍💻 with 5 years of experience implementing efficient, scalable web applications with 10,000+ users for companies like Amazon📦 and Shell🛢️ using React.js⚛️, Redux, JavaScript, TypeScript;
-Collaborated with direct clients💼, cross-functional teams of various sizes and led users UI/UX interviews.
+Frontend Engineer with 6+ years building high-performance web applications for Amazon, Shell, Phillips Auction, and Cigna. Specializing in React, TypeScript, Remix/React Router v7, and Next.js, with a focus on performance, accessibility, and real-time systems.
+ 
+At Amazon, contributed to a platform saving $4.3M annually. At Cigna, built an internal Next.js platform aggregating data across three healthcare networks. At Shell, built and maintained a monitoring UI tracking ~300 refinery sites.
+ 
+Currently at Phillips Auction, driving frontend efforts for registration and SEO across a real-time auction platform handling $200K+ lots. Improved site health by 30%. Delivered a Remix migration reducing load time from 5.4s to <600ms and cutting payload by 75%+.
+ 
+Driving adoption of AI-assisted development (Claude, GitHub Copilot), exploring new workflows and integrating them into team processes.
 
 📢 I'm always looking to grow my personal and professional network. Feel free to connect via [LINKDEIN](https://www.linkedin.com/in/konstantyn-husenko/) or contact me directly at huzenko.c@gmail.com;
 
